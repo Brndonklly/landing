@@ -1,0 +1,19 @@
+.container3 h3 {
+	font-family: 'Courgette', cursive;
+	font-size: 22px;
+}
+
+.container3 ul {
+	padding-left: 0px;
+	font-family: 'Roboto', sans-serif;
+	list-style: none;
+}
+
+.follow {
+	padding: 0px 70px;
+	padding-left: 90px;
+}
+
+.contact {
+	padding: 0px 70px;
+}
